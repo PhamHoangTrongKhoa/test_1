@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello word, GitHub
+=======
+hello 
+>>>>>>> parent of 8a55e85... file.txt
